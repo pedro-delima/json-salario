@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "João Silva",
+    "valorHora": 25.0,
+    "horasTrabalhadas": 160
+  },
+  {
+    "nome": "Maria Oliveira",
+    "valorHora": 30.0,
+    "horasTrabalhadas": 150
+  },
+  {
+    "nome": "Carlos Souza",
+    "valorHora": 20.0,
+    "horasTrabalhadas": 170
+  },
+  {
+    "nome": "Ana Paula",
+    "valorHora": 35.0,
+    "horasTrabalhadas": 140
+  },
+  {
+    "nome": "Bruno Costa",
+    "valorHora": 22.5,
+    "horasTrabalhadas": 165
+  },
+  {
+    "nome": "Fernanda Lima",
+    "valorHora": 28.0,
+    "horasTrabalhadas": 155
+  },
+  {
+    "nome": "Ricardo Mendes",
+    "valorHora": 26.0,
+    "horasTrabalhadas": 160
+  },
+  {
+    "nome": "Juliana Rocha",
+    "valorHora": 31.0,
+    "horasTrabalhadas": 150
+  },
+  {
+    "nome": "Felipe Martins",
+    "valorHora": 24.0,
+    "horasTrabalhadas": 168
+  },
+  {
+    "nome": "Patrícia Gomes",
+    "valorHora": 29.0,
+    "horasTrabalhadas": 152
+  },
+  {
+    "nome": "Leonardo Ferreira",
+    "valorHora": 27.0,
+    "horasTrabalhadas": 158
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "valorHora": 33.0,
+    "horasTrabalhadas": 147
+  },
+  {
+    "nome": "Thiago Almeida",
+    "valorHora": 21.0,
+    "horasTrabalhadas": 162
+  },
+  {
+    "nome": "Aline Cardoso",
+    "valorHora": 30.0,
+    "horasTrabalhadas": 153
+  },
+  {
+    "nome": "Gabriel Teixeira",
+    "valorHora": 23.0,
+    "horasTrabalhadas": 166
+  },
+  {
+    "nome": "Larissa Monteiro",
+    "valorHora": 32.0,
+    "horasTrabalhadas": 149
+  },
+  {
+    "nome": "Eduardo Nunes",
+    "valorHora": 26.5,
+    "horasTrabalhadas": 157
+  },
+  {
+    "nome": "Renata Pires",
+    "valorHora": 34.0,
+    "horasTrabalhadas": 145
+  },
+  {
+    "nome": "André Barbosa",
+    "valorHora": 22.0,
+    "horasTrabalhadas": 164
+  },
+  {
+    "nome": "Sabrina Azevedo",
+    "valorHora": 28.5,
+    "horasTrabalhadas": 151
+  }
+]
